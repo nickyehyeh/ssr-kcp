@@ -1,4 +1,4 @@
-FROM linyuhc001/ssr-docker
+FROM beiying123/ssr-docker
 
 ENV KCP_VER 20161222
 
